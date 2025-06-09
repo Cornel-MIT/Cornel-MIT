@@ -72,4 +72,16 @@ Hey there! I'm Cornel – a passionate Full Stack Developer who thrives on build
 
 ---
 
+## 📊 GitHub Stats
+
+![Cornel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cornel-MIT&show_icons=true&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cornel-MIT&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cornel-MIT&theme=tokyonight)
+
+![Cornel's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Cornel-MIT&theme=react-dark&hide_border=true)
+
+---
+
 _Thanks for stopping by! Let's build something beautiful and functional together._ ✨
