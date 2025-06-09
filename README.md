@@ -1,6 +1,5 @@
 # Hey there! I'm Cornel
 
----
 ## 🎨 Full Stack Software Developer 
 
 A passionate Full Stack Developer who thrives on building robust, scalable, and user-focused applications. I specialize in creating solutions that bridge the gap between elegant UI and efficient backend architecture.
